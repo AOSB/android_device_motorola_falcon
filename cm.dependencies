@@ -1,7 +1,13 @@
 [
   {
     "remote": "github",
-    "repository": "AOSB/android_device_motorola_qcom-common",
+    "repository": "CyanogenMod/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision": "cm-11.0"
+  },
+  {
+    "remote": "github",
+    "repository": "CyanogenMod/android_device_motorola_qcom-common",
     "target_path": "device/motorola/qcom-common",
     "revision": "cm-11.0"
   },
@@ -13,7 +19,7 @@
   },
   {
     "remote": "github",
-    "repository": "razrqcom-dev-team/android_kernel_motorola_msm8226",
+    "repository": "CyanogenMod/android_kernel_motorola_msm8226",
     "target_path": "kernel/motorola/msm8226",
     "revision": "cm-11.0"
   },
@@ -37,7 +43,7 @@
   },
   {
     "remote": "github",
-    "repository": "razrqcom-dev-team/proprietary_vendor_motorola",
+    "repository": "TheMuppets/proprietary_vendor_motorola",
     "target_path": "vendor/motorola",
     "revision": "cm-11.0"
    }
