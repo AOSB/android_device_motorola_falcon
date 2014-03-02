@@ -19,7 +19,7 @@
   },
   {
     "remote": "github",
-    "repository": "CyanogenMod/android_kernel_motorola_msm8226",
+    "repository": "anerikg/android_kernel_motorola_msm8226",
     "target_path": "kernel/motorola/msm8226",
     "revision": "cm-11.0"
   },
